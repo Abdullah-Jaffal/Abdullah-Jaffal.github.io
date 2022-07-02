@@ -1,0 +1,146 @@
+{
+  "Languages": "Diller",
+  "SideBar": {
+    "Info": {
+      "Basic": "Yeni şeyleri öğrenmek keşftmek için araştırmaktan hoşlanırım, kendimi geliştirmek için her zaman çaba gösteririm, meraklı ve ayrıntılar gözünden kaçmayan bir yapıya sahibim. İstekli ve sıkı çalışmanın başarıyla sonuçlanacağı farkındalığıyla ekip başarısına katkı sağlayabileceğim konusunda kendime güvenim tamdır.",
+      "Birthday": "Doğum Yeri ve Tarihi",
+      "BirthdayData": "Suriye - 1998",
+      "DrivingLicence": "Ehliyet",
+      "DrivingLicenceSpan": "Yok",
+      "TravelPossibility": "Seyahat Engeli",
+      "TravelPossibilitySpan": "Türkiye'de Engeli Yok"
+    },
+    "Mobile": "Telefon",
+    "Whatsapp": "Whatsapp",
+    "PersonalMail": "Kişisel E-Posta",
+    "Adress": {
+      "City": "Serdivan, Sakarya",
+      "Country": "Türkiye"
+    },
+    "Skills": {
+      "BasicSkills": "Yetenekler",
+      "Skills": "Yetenekler",
+      "Financial": "Finansal Organizasyon",
+      "StructuralAnalysis": "Yapısal Analiz",
+      "ProjectManagement": "Proje Yönetimi",
+      "ProcessImprovement": "Süreç geliştirme",
+      "AnalysisReporting": "Analiz ve Raporlama",
+      "FinancialText": "İnşaat Projelerinde Kaba, ince, hafriyat ve diğer kalemler metraj çıkartması, metrajlardan yola çıkarak yaklaşık maliyetini hesaplamasi, Metraj kalemleri düzenleyip keşif formatına getirmesi, keşfin bütçeye dönüştürülmesi ve hakediş raporu hazırlanması.",
+      "Professional": "Bilgisayar Becerileri",
+      "AutoCAD": "Autodesk AutoCAD",
+      "Revit": "Autodesk Revit",
+      "Office": "Microsoft Office",
+      "Word": "Microsoft Word",
+      "Excel": "Microsoft Excel",
+      "Project": "Microsoft Project",
+      "PowerPoint": "Microsoft PowerPoint",
+      "SAP2000": "SAP2000",
+      "Languages": "Diller",
+      "Arabic": "Arapça",
+      "Native": "Anadili",
+      "English": "İngilizce",
+      "Reading": "Okuma",
+      "Listening": "Dinleme",
+      "Speaking": "Konuşma",
+      "Writing": "Yazma",
+      "Turkish": "Türkçe"
+    },
+    "Urls": {
+      "Facebook": "Facebook",
+      "Twitter": "Twitter",
+      "Instagram": "Instagram",
+      "LinkedIn": "LinkedIn",
+      "SocialMedia": "Sosyal Medya"
+    }
+  },
+  "Section": {
+    "Work": {
+      "Title": "İş ve Staj Deneyimi",
+      "CivilEngineer": "İnşaat Mühendisi",
+      "Freelance": "– Freelance",
+      "FreelanceDate": "Ekim 2021- Nisan 2022",
+      "FreelanceDetail": "İnşaat Mühendisliği alanında kendimi geliştirmek ve ilişki ağımı genişletmek amacıyla Genel olarak dış tasarım, metraj çıkarılması ve yapısal analiz alanında gerçek veya asılsız (kendi bilgisayarım ortamında oluşturdum projeler) bazı küçük projeler üzerinde çalışıyorum.",
+      "ProductionChief": "Üretim Şefi",
+      "Internship": "– Stajyer",
+      "Fibrobeton": "Fibrobeton Yapı Elemanları",
+      "FibrobetonSpan": "San. İnş. ve Tic. A.Ş.",
+      "FibrobetonDate": "Şubat – Mayıs, 2021",
+      "FibrobetonLocation": "Düzce, Türkiye",
+      "FibrobetonDetail": "Staj süresi boyunca, işçileri ve iş akışını yönetme, örgütleme ve kontrol etme becerilerimi geliştirdim. Bana Eğitim veren ve üretim bölüm şefi istifa ettikten sonra, yeni üretim şefi gelmesine kadar üretim şefin görevlerini devr aldım. Her proje için belirlenen özelliklere göre; tüketilen hammadde miktarların hesaplanması, raporlarının hazırlanması, stok kontrollerinin yapılması ve haftalık satın alma raporlarının hazırlanması ile ilgili dosyaların Excel programını kullanarak geliştirilmesine çalıştım. Kazandığım becerilerin, herhangi bir projeyi eskisine göre daha doğru bir şekilde uygulamak için bir mekanizma planlaması ve kurması konusunda meslek hayatımda bana yardımcı olacağını düşünüyorum.",
+      "OfficeEngineer": "Teknik Ofis Mühendisi",
+      "Koseoglu": "Köseoğlu Mühendislik",
+      "KoseogluDate": "Haziran – Temmuz, 2020",
+      "KoseogluLocation": "Kilis, Türkiye",
+      "KoseogluDetail": "Staj süresi boyunca ofis ortamında inşaat sektörünün durumu hakkında bilgi edindim. AutoCAD ve SAP2000 programlar üzerinde çok katlı betonarme yapıların statik, deprem ve rüzgâr analiz çalışmalarını yapıp incelemelerde bulundum. Ayrıca Revit programı ortamında binaların diş ve iç görünüm dizayn etmesi hakkında çeşitli bilgiler edindim. Bu incelemelerin sonucunda birçok bilgiye eriştim bunların meslek hayatımda çok işe yarayacağını düşünüyorum.",
+      "SiteCivilEngineer": "Şantiye Şefi",
+      "KocInsaat": "Koç İnşaat",
+      "KocInsaatSpan": "Taahhüt San. ve Tic. Ltd. Şti.",
+      "KocInsaatDate": "Ağustos – Eylül, 2019",
+      "KocInsaatLocation": "Düzce, Türkiye",
+      "KocInsaatDetail": "Düzce Cumayeri ilçesinde TOKİ 127+1kD konut inşa edilmekte olan inşaatı ile altyapı ve çevre düzenlenmesi ortamında bulundum. Şantiye stajımın sonunda inşaatçılık ve mühendislik alanlarında yeterli olmasa da genel bir öngörüm oluştu. Bununla birlikte stajımda kaba, ince inşaat ve şantiye hakkında çeşitli bilgiler edindim, Altyapı konusunda ise Nivelman aleti kullanmasını öğrenip kanalizasyon ve yağmur suyu kanalları oluşturma aşamasında ne kader yardımcı olduğunu öğrendim. Öğrendiklerimin mühendislik kariyerimde işime yarayacağını düşünmekteyim."
+    },
+    "Education": {
+      "Title": "Eğitim",
+      "CivilEngineering": "İnşaat Mühendisliği",
+      "Bachelor": "– lisans derecesi",
+      "BachelorSchool": "Düzce Üniversitesi",
+      "BachelorDate": "Temmuz 2017 - Haziran 2021",
+      "BachelorGPA": "GNO: 3.14",
+      "BachelorDetail": "Herhangi bir konuyu tam anlamıyla kavramadan kendimi öğrenmiş saymadığım için üniversite sürecinde almış olduğum teorik ve uygulamalı eğitimlerle beni bir üst seviyeye taşıdığını diyebilirim."
+    },
+    "Refarances": {
+      "Title": "Refarances",
+      "YilmazKocak":"Pro. Dr. Yilmaz KOCAK",
+      "YilmazKocakDate":"Mayıs - 2021",
+      "ReferencesRequest":"references available upon request.",
+      "RifatAkbiyikli":"Pro. Dr. Rıfat AKBIYIKLI",
+      "RifatAkbiyikliDate":"Eylül - 2019"
+    },
+    "Interests": {
+      "Title": "Hobi ve İlgi Alanları"
+    }
+  },
+  "NavBar": {
+    "Name": "Abdullah Jaffal",
+    "Title": "İnşaat Mühendisi",
+    "Resume": "Özgeçmiş",
+    "Projects": "Projeler",
+    "Contact": "İletişim"
+  },
+  "Contact": {
+    "Contact": "İletişim Formu",
+    "Name": "Adınız",
+    "Email": "E-Posta Adresiniz",
+    "Phone": "Telefon Numaranız",
+    "Content": "Mesajınız",
+    "Submit": "Gönder",
+    "alert":"İletişim formu geçici olarak çalışmamaktadır. Benimle başka bir iletişim yolu ile iletişime geçebilirsiniz veya daha sonra tekrar deneyin."
+  },
+  "Projects": {
+    "ShowAll": "Tüm Projeler",
+    "ClickForDetails": "Detayları İçin Tıklayınız",
+    "FilesRequest": "Files available upon request.",
+    "StructureDesign":"Yapı Tasarımı",
+    "ReinforcedConcreteStructureDesign":"Çok Katlı Betonarme Yapı Tasarım Projesi",
+    "Hidrolik":"Hidrolik",
+    "SuGetirmeKanallarinTasarimi":"Su Getirme Kanalların Tasarımı",
+    "YağmurSuyuUzaklastirmaKanallarinTasarimi":"Yağmur Suyu Uzaklaştırma Kanalların Tasarımı",
+    "AtiksuUzaklastirmaKanallarinTasarimi":"Atıksu Uzaklaştırma Kanalların Tasarımı",
+    "UygulamaliDersProjesi":"Uygulamalı Ders Projesi",
+    "StructureDetails":"10 kattan oluşan bir yapının statik ve deprem analiz çalışmaları yaptıktan sonra çıkan sonuçlara göre yapıya ait döşemeler, merdiven, kirişler ve kolonlar tasarladım.",
+    "Ulastirma":"Ulaştırma",
+    "UlastirmaYolTasarimProjesi":"Ulaştırma Yol Tasarım Projesi",
+    "Metraj":"Metraj",
+    "VillaMetraji":"3 Katli Villa Metraji ve Toplam Maliyeti",
+    "Malzeme":"Yapı Malzemeleri",
+    "MalzemeTitle":"Diatomitin Çimento ve Beton Teknolojisinde Kullanım Potansiyelleri",
+    "BitirmeCalismasi":"Lisans Bitirme Çalışması",
+    "BitirmeCalismasiDetails":" Diatomit inşaat sektüründa kullanım alanları detaylıca bahsedilmiştir. Bir Yapının deprem karşısında dayanıklıklığı bakımından yapının öz yükü azaltılması nedeniyle Çimento, harç, beton, blok v.s. yapı elemenlerinde diatomit kullanılabilirliği, avantajları ve dizavantajları incelenmiştir. Diatomin kullandiği alanda yük, ısı, kimyasal katki karşisinde davranışı gösterilmiştir",
+    "BetonOzellikleri":"Beton Özellikleri ve Beton Teknolojisindeki Gelişmeler",
+    "BetonOzellikleriDetails":"Bu çalışmada beton bileşenleri, betondan beklenen özellikleri ve bu özelliklere etkileyen faktörler bahsedildi. Kimyasal, fiziksel ve nano katkıların türleri, özellikleri, önemi ve taze ve sertleşmiş betona etkileri bahsedildi",
+    "UygulamaliDersArastirmasi":"Uygulamalı Ders Araştırması",
+    "SulfatDeneyi":"Sülfat Direnci Deneyi",
+    "SulfatDeneyiDetails":"Sülfat etkisi ve sülfat deneyleri hakkında araştırma yapıldı ve genel bilgleri edildi. Sülfata dayanklılık beton nasıl elde edebilir. Sülfat nasil betonu etki eder ve Daha önceden yapılmış sülfat deneylerin sonuçleri bahsedildi."
+  },
+  "UnderDevelopment":"Bu Web Sitesi Hala Geliştirme Aşamasındadır"
+}

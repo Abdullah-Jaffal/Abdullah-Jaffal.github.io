@@ -1,0 +1,121 @@
+{
+  "Languages": "Languages",
+  "SideBar": {
+      "Info": {
+          "Basic":"Yeni şeyleri öğrenmek keşftmek için araştırmaktan hoşlanırım, kendimi geliştirmek için her zaman çaba gösteririm, meraklı ve ayrıntılar gözünden kaçmayan bir yapıya sahibim. İstekli ve sıkı çalışmanın başarıyla sonuçlanacağı farkındalığıyla ekip başarısına katkı sağlayabileceğim konusunda kendime güvenim tamdır.",
+          "Birthday":"Place and Date of Birth",
+          "BirthdayData":"Syria - 1998",
+          "DrivingLicence":"Driving Licence",
+          "DrivingLicenceSpan":"Don't have",
+          "TravelPossibility":"Travel Possibility",
+          "TravelPossibilitySpan":"Türkiye'de Engeli Yok"
+      },
+      "Mobile":"Mobile",
+      "Whatsapp":"Whatsapp",
+      "PersonalMail":"Personal Mail",
+      "Adress":{
+          "City":"Serdivan, Sakarya",
+          "Country":"Turkey"
+      },
+      "Skills":{
+          "BasicSkills":"Basic Skills",
+          "Skills":"Skills",
+          "Financial":"Financial",
+          "StructuralAnalysis":"Structural Analysis",
+          "ProjectManagement":"Project Management",
+          "ProcessImprovement":"Process Improvement",
+          "AnalysisReporting":"Analysis Reporting",
+          "FinancialText":"İnşaat Projelerinde Kaba, ince, hafriyat ve diğer kalemler metraj çıkartması, metrajlardan yola çıkarak yaklaşık maliyetini hesaplamasi, Metraj kalemleri düzenleyip keşif formatına getirmesi, keşfin bütçeye dönüştürülmesi ve hakediş raporu hazırlanması.",
+          "Professional":"Professional Skills",
+          "AutoCAD":"Autodesk AutoCAD",
+          "Revit":"Autodesk Revit",
+          "Office":"Microsoft Office",
+          "Word":"Microsoft Word",
+          "Excel":"Microsoft Excel",
+          "Project":"Microsoft Project",
+          "PowerPoint":"Microsoft PowerPoint",
+          "SAP2000":"SAP2000",
+          "Languages":"Languages",
+          "Arabic":"Arabic",
+          "Native":"Native Language",
+          "English":"English",
+          "Reading":"Reading",
+          "Listening":"Listening",
+          "Speaking":"Speaking",
+          "Writing":"Writing",
+          "Turkish":"Turkish"
+      },
+      "Urls":{
+      "Facebook":"Facebook",
+      "Twitter":"Twitter",
+      "Instagram":"Instagram",
+      "LinkedIn":"LinkedIn",
+      "SocialMedia":"Social Media"
+      }
+  },
+  "Section":{
+    "Work":{
+        "Title":"Work and Internship Experience",
+        "CivilEngineer":"Civil Engineer",
+        "Freelance":"– Freelance",
+        "FreelanceDate":"july 2021- Present",
+        "FreelanceDetail":"İnşaat Mühendisliği alanında kendimi geliştirmek ve ilişki ağımı genişletmek amacıyla Genel olarak dış tasarım, metraj çıkarılması ve yapısal analiz alanında gerçek veya asılsız (kendi bilgisayarım ortamında oluşturdum projeler) bazı küçük projeler üzerinde çalışıyorum.",
+        "ProductionChief":"Production Chief",
+        "Internship":"– Internship",
+        "Fibrobeton":"Fibrobeton Yapi Elemanlari",
+        "FibrobetonSpan":"San. İns. ve Tic. A.S.",
+        "FibrobetonDate":"Feb – May, 2021",
+        "FibrobetonLocation":"Duzce, Turkey",
+        "FibrobetonDetail":"Staj süresi boyunca, işçileri ve iş akışını yönetme, örgütleme ve kontrol etme becerilerimi geliştirdim. Bana Eğitim veren ve üretim bölümüne sorumlusu mühendis istifa ettikten sonra, yeni üretim şefi gelmesine kadar üretim şef görevleri başına geçtim. Her proje için belirlenen özelliklere göre tüketilen hammadde miktarların hesaplanması, raporların hazırlanması, stok kontrollerinin yapılması ve haftalık satın alma raporlarının hazırlanması ile ilgili dosyaların Excel programını kullanarak geliştirilmesine çalıştım. Kazandığım becerilerin, herhangi bir projeyi eskisine göre daha doğru bir şekilde uygulamak için bir mekanizma planlaması ve kurması konusunda meslek hayatımda bana yardımcı olacağını düşünüyorum.",
+        "OfficeEngineer":"Office Engineer",
+        "Koseoglu":"Koseoglu Muhendislik",
+        "KoseogluDate":"jul – july, 2020",
+        "KoseogluLocation":"Kilis, Turkey",
+        "KoseogluDetail":"Staj süresi boyunca ofis ortamında inşaat sektörünün durumu hakkında bilgi edindim. AutoCAD ve SAP2000 programlar üzerinde çok katlı betonarme yapıların statik, deprem ve rüzgâr analiz çalışmalarını yapıp incelemelerde bulundum. Ayrıca Revit programı ortamında binaların diş ve iç görünüm dizayn etmesi hakkında çeşitli bilgiler edindim. Bu incelemelerin sonucunda birçok bilgiye eriştim bunların meslek hayatımda çok işe yarayacağını düşünüyorum.",
+        "SiteCivilEngineer":"Site Civil Engineer",
+        "KocInsaat":"Koc Insaat",
+        "KocInsaatSpan":"Taahhut San. ve Tic. Ltd. Sti.",
+        "KocInsaatDate":"Aug – Sep, 2019",
+        "KocInsaatLocation":"Duzce, Turkey",
+        "KocInsaatDetail":"Düzce Cumayeri ilçesinde TOKİ 127+1kD konut inşa edilmekte olan inşaatı ile altyapı ve çevre düzenlenmesi ortamında bulundum. Şantiye stajımın sonunda inşaatçılık ve mühendislik alanlarında yeterli olmasa da genel bir öngörüm oluştu. Bununla birlikte stajımda kaba, ince inşaat ve şantiye hakkında çeşitli bilgiler edindim, Altyapı konusunda ise Nivelman aleti kullanmasını öğrenip kanalizasyon ve yağmur suyu kanalları oluşturma aşamasında ne kader yardımcı olduğunu öğrendim. Öğrendiklerimin mühendislik kariyerimde işime yarayacağını düşünmekteyim."
+    },
+    "Education":{
+      "Title":"Education",
+      "CivilEngineering":"Civil Engineering",
+      "Bachelor":"– Bachelor's degree",
+      "BachelorSchool":"Duzce University",
+      "BachelorDate":"july 2017 - jul 2021",
+      "BachelorGPA":"GPA: 3.14",
+      "BachelorDetail":"Herhangi bir konuyu tam anlamıyla kavramadan kendimi öğrenmiş saymadığım için üniversite sürecinde almış olduğum teorik ve uygulamalı eğitimlerle kendimi bir üst seviyeye taşıdığını diyebilirim."
+    },
+    "Refarances":{
+      "Title":"Refarances"
+    },
+    "Interests":{
+      "Title":"Hobbies and Interests"
+    }
+  },
+  "NavBar":{
+    "Name":"Abdullah Jaffal",
+    "Title":"Civil Engineer",
+    "Resume":"Resume",
+    "Projects":"Projects",
+    "Contact":"Contact"
+  },
+  "Contact": {
+      "Contact":"Contact Form",
+      "Name":"Name",
+      "Email":"Email",
+      "Phone":"Phone",
+      "Content":"Message",
+      "Submit":"Submit"
+  },
+  "Projects":{
+    "ShowAll":"Show All",
+    "ClickForDetails":"Click For Details",
+    "FilesRequest":"Files available upon request.",
+    "StructureDesign":"Structure Design",
+    "ReinforcedConcreteStructureDesign":"Reinforced Concrete Structure Design"
+  },
+  "UnderDevelopment":"The Website is Still Under Development"
+}

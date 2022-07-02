@@ -1,0 +1,121 @@
+{
+  "Languages": "اللغات",
+  "SideBar": {
+      "Info": {
+          "Basic":"أحب البحث لتعلم واكتشاف أشياء جديدة، وأبذل دائمًا مجهودًا لتحسين نفسي، كما أنني أهتم بالتفاصيل ولدي طبيعة فضولية. معرفتي بأن الرغبة والعمل الجاد سيؤديان إلى النجاح تمنحني الثقة في أنني أستطيع المساهمة في نجاح الفريق",
+          "Birthday":"مكان وتاريخ الميلاد",
+          "BirthdayData":"سورية - 1998",
+          "DrivingLicence":"رخصة قيادة",
+          "DrivingLicenceSpan":"لايوجد",
+          "TravelPossibility":"عائق السفر",
+          "TravelPossibilitySpan":"لايوجد عائق داخل تركيا"
+      },
+      "Mobile":"هاتف",
+      "Whatsapp":"واتساب",
+      "PersonalMail":"بريد إلكتروني شخصي",
+      "Adress":{
+          "City":"سرديوان، ساكاريا",
+          "Country":"تركيا"
+      },
+      "Skills":{
+          "BasicSkills":"مهارات أساسية",
+          "Skills":"مهارات",
+          "Financial":"التنظيم المالي",
+          "StructuralAnalysis":"التحليل الإنشائي",
+          "ProjectManagement":"إدارة المشاريع",
+          "ProcessImprovement":"تطوير سير العمل",
+          "AnalysisReporting":"التحليل وكتابة التقارير",
+          "FinancialText":"حصر الكميات وحساب التكلفة التقريبية ووضع الميزانية للمشاريع الإنشائية",
+          "Professional":"مهارات حاسوبية",
+          "AutoCAD":"أوتوديسك أوتوكاد",
+          "Revit":"أوتوديسك ريفيت",
+          "Office":"مايكروسوفت أوفيس",
+          "Word":"مايكروسوفت وورد",
+          "Excel":"مايكروسوفت إكسل",
+          "Project":"مايكروسوفت بروجكت",
+          "PowerPoint":"مايكروسوفت باوربوينت",
+          "SAP2000":"ساب 2000",
+          "Languages":"اللغات",
+          "Arabic":"اللغة العربية",
+          "Native":"اللغة الأم",
+          "English":"اللغة الإنجليزية",
+          "Reading":"القراءة",
+          "Listening":"الاستماع",
+          "Speaking":"التحدث",
+          "Writing":"الكتابة",
+          "Turkish":"اللغة التركية"
+      },
+      "Urls":{
+      "Facebook":"فيس بوك",
+      "Twitter":"تويتر",
+      "Instagram":"إنستغرام",
+      "LinkedIn":"لينكد إن",
+      "SocialMedia":"وسائل التواصل الاجتماعي"
+      }
+  },
+  "Section":{
+    "Work":{
+        "Title":"العمل والتدريب المهني",
+        "CivilEngineer":"مهندس مدني",
+        "Freelance":"– عمل حر",
+        "FreelanceDate":"تموز 2021 - مستمر",
+        "FreelanceDetail":"من أجل تحسين نفسي في مجال الهندسة المدنية ولتوسيع شبكة علاقاتي، أعمل بشكل عام في بعض المشاريع الصغيرة سواء الحقيقية أو التي لا أساس لها (المشاريع التي أنشأتها على جهاز الكمبيوتر الخاص بي) ، في مجال التصميم الخارجي ، وحصر الكميات والتحليل الإنشائي.",
+        "ProductionChief":"مشرف الانتاج",
+        "Internship":"– متدرب",
+        "Fibrobeton":"Fibrobeton Yapı Elemanları",
+        "FibrobetonSpan":"San. İnş. ve Tic. A.Ş.",
+        "FibrobetonDate":"شباط - أيار 2021",
+        "FibrobetonLocation":"دوزجة، تركيا",
+        "FibrobetonDetail":"خلال فترة التدريب، طورت مهاراتي في إدارة وتنظيم ومراقبة العمال وسير العمل. بعد استقالة المهندس المشرف على قسم الإنتاج، تسلمت مهام مشرف الإنتاج مؤقتًا حتى قدوم مشرف إنتاج جديد. باستخدام برنامج Excel حاولت تطوير الملفات المتعلقة بحساب كمية المواد الخام المستهلكة بناء على المواصفات المحددة لكل مشروع وإعداد التقارير بها ومراقبة المخزون وإعداد تقارير الشراء الأسبوعية. أعتقد أن المهارات التي اكتسبتها ستساعدني في حياتي المهنية على التخطيط ووضع آلية لتنفيذ أي مشروع بشكل أكثر دقة من ذي قبل.",
+        "OfficeEngineer":"مهندس مكتب فني",
+        "Koseoglu":"Köseoğlu Mühendislik",
+        "KoseogluDate":"حزيران - تموز 2020",
+        "KoseogluLocation":"كلس، تركيا",
+        "KoseogluDetail":"Staj süresi boyunca ofis ortamında inşaat sektörünün durumu hakkında bilgi edindim. AutoCAD ve SAP2000 programlar üzerinde çok katlı betonarme yapıların statik, deprem ve rüzgâr analiz çalışmalarını yapıp incelemelerde bulundum. Ayrıca Revit programı ortamında binaların diş ve iç görünüm dizayn etmesi hakkında çeşitli bilgiler edindim. Bu incelemelerin sonucunda birçok bilgiye eriştim bunların meslek hayatımda çok işe yarayacağını düşünüyorum.",
+        "SiteCivilEngineer":"مشرف موقع البناء",
+        "KocInsaat":"Koç İnşaat",
+        "KocInsaatSpan":"Taahhüt San. ve Tic. Ltd. Şti.",
+        "KocInsaatDate":"آب - أيلول 2019",
+        "KocInsaatLocation":"دوزجة، تركيا",
+        "KocInsaatDetail":"لقد تواجدت اثناء تنفيذ مشروع TOKİ 127+1kD في منطقة Cumayeri في ولاية Düzce التركية والذي يتكون من تنفيذ مباني سكنية بالاضافة الى البنية التحتية والمرافق العامة التابعة لها. في نهاية فترة التدريب في موقع البناء ، كان لدي نظرة عامة في مجال البناء والهندسة المدنية، على الرغم من أنها لم تكن كافية. ومع ذلك حصلت على معلومات مختلفة حول موقع البناء والتشييد وانشاء العضم والتشطيبات والاكساء. اما في مجال البنية التحتية ، تعلمت كيفية استخدام أداة التسوية (Nivelman) واصبحت على دراية بمدى فائدتها في مختلف المجالات بشكل عام وخاصة في مرحلة إنشاء قنوات الصرف الصحي ومياه الأمطار. أعتقد أن ما تعلمته سيكون مفيدًا لحياتي المهنية."
+    },
+    "Education":{
+      "Title":"التعليم",
+      "CivilEngineering":"الهندسة المدنية",
+      "Bachelor":" - درجة البكالوريوس",
+      "BachelorSchool":"جامعة دوزجة",
+      "BachelorDate":"تموز 2017 - حزيران 2021",
+      "BachelorGPA":"المعدل التراكمي: 3.14",
+      "BachelorDetail":"لأنني لا أعتبر نفسي قد تعلمت شيء دون الفهم كامل لأي موضوع كان ، يمكنني القول بناءً على التدريب النظري والعملي الذي تلقيته خلال فترة الجامعة إنني انتقلت إلى المستوى أعلى جديد في حياتي."
+    },
+    "Refarances":{
+      "Title":"التوصية"
+    },
+    "Interests":{
+      "Title":"هوايات و اهتمامات"
+    }
+  },
+  "NavBar":{
+    "Name":"عبداللَّه جفَّال",
+    "Title":"مهندس مدني",
+    "Resume":"السيرة الذاتية",
+    "Projects":"المشاريع",
+    "Contact":"تواصل معي"
+  },
+  "Contact": {
+      "Contact":"نموذج التواصل",
+      "Name":"الاسم الكامل",
+      "Email":"البريد الإلكتروني",
+      "Phone":"رقم الهاتف",
+      "Content":"الرسالة",
+      "Submit":"ارسال"
+  },
+  "Projects":{
+    "ShowAll":"كل المشاريع",
+    "ClickForDetails":"للتفاصيل اضغط هنا",
+    "FilesRequest":"الملفات متوفرة عند الطلب",
+    "StructureDesign":"تصميم إنشائي",
+    "ReinforcedConcreteStructureDesign":"تصميم إنشائي لبناء من الخرسانة المسلحة"
+  },
+  "UnderDevelopment":"لايزال الموقع قيد التطوير"
+}
